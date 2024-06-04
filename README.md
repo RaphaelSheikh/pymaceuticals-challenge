@@ -35,12 +35,17 @@ Create two summary statistics DataFrames:
     * Create the first bar plot by using Pandas's `DataFrame.plot()` method.
 
     * Create the second bar plot by using Matplotlib's `pyplot` methods.
+  
+![image](https://github.com/RaphaelSheikh/pymaceuticals-challenge/assets/166172978/01060604-a67d-4ef6-8286-7a774f2ebc2d)
+
 
 2. Generate two pie plots. Both plots should be identical and show the distribution of female or male mice in the study.
 
     * Create the first pie plot by using both Pandas's `DataFrame.plot()`.
 
     * Create the second pie plot by using Matplotlib's `pyplot` methods.
+
+![image](https://github.com/RaphaelSheikh/pymaceuticals-challenge/assets/166172978/c35cb6d3-233c-4dfb-b3d6-82685450f3f8)
 
 ### Calculate Quartiles, Find Outliers, and Create a Box Plot 
 
@@ -58,17 +63,30 @@ Create two summary statistics DataFrames:
 
   **Hint**: All four box plots should be within the same figure. Use this [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
 
+![image](https://github.com/RaphaelSheikh/pymaceuticals-challenge/assets/166172978/e592b9b1-4d06-478f-bcee-88e3f768cc04)
+
+
 ### Create a Line Plot and a Scatter Plot
 
 1. Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
 
 2. Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
 
+
+![image](https://github.com/RaphaelSheikh/pymaceuticals-challenge/assets/166172978/f3b5a258-ddd5-461a-aaf5-30f8306094ac)
+
+
+![image](https://github.com/RaphaelSheikh/pymaceuticals-challenge/assets/166172978/b27f383d-f76d-4d33-915f-a01c535b5cd0)
+
+
 ### Calculate Correlation and Regression
 
 1. Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. 
 
 2. Plot the linear regression model on top of the previous scatter plot.
+
+![image](https://github.com/RaphaelSheikh/pymaceuticals-challenge/assets/166172978/ce54c4f9-7968-47ed-a5fd-4375120d8cfa)
+
 
 
 Review all the figures and tables that you generated in this assignment. Write at least three observations or inferences that can be made from the data. Include these observations at the top of your notebook.
