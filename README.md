@@ -1,5 +1,7 @@
 # Pymaceuticals, Inc.
 
+![image](https://github.com/RaphaelSheikh/pymaceuticals-challenge/assets/166172978/d4c42b47-3863-4ba5-b146-e85a48c6da98)
+
 What good is data without a good plot to tell the story?
 
 In this assignment, I will apply what I've learned about Matplotlib to a real-world situation and dataset.
