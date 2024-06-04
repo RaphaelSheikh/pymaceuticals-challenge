@@ -6,6 +6,14 @@ What good is data without a good plot to tell the story?
 
 In this assignment, I will apply what I've learned about Matplotlib to a real-world situation and dataset.
 
+# Analysis
+
+* Capomulin and Ramicane reduces the tumor size better.
+
+* There is a positive correlation between mouse weight and average tumor volume, it is 0.84. As the mouse weight increases, the average tumor volume increases too.
+
+* The bar graph shows that Capomulin and Ramicane had the most number of mice tested.
+
 # Background
 
 I've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
@@ -88,10 +96,6 @@ Create two summary statistics DataFrames:
 2. Plot the linear regression model on top of the previous scatter plot.
 
 ![image](https://github.com/RaphaelSheikh/pymaceuticals-challenge/assets/166172978/ce54c4f9-7968-47ed-a5fd-4375120d8cfa)
-
-
-
-Review all the figures and tables that you generated in this assignment. Write at least three observations or inferences that can be made from the data. Include these observations at the top of your notebook.
 
 - - -
 
