@@ -77,14 +77,14 @@ Review all the figures and tables that you generated in this assignment. Write a
 
 ## References
 
-Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
+* Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
 
-matplotlib.pyplot.legend (https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html)
+* matplotlib.pyplot.legend (https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html)
 
-List of named colors (https://matplotlib.org/stable/gallery/color/named_colors.html)
+* List of named colors (https://matplotlib.org/stable/gallery/color/named_colors.html)
 
-matplotlib.markers (https://matplotlib.org/stable/api/markers_api.html)
+* matplotlib.markers (https://matplotlib.org/stable/api/markers_api.html)
 
-Boxplots (https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html)
+* Boxplots (https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html)
 
 - - -
